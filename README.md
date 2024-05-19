@@ -21,7 +21,8 @@ I am a student at Jurong West Secondary School, where I am actively engaged in t
 
 ## Projects 
   ### School Management Project
-  software to read CSV files and extract/analyze the data about students and courses. I implemented several features like extracting the average grade for each course and student.  
+  [Github Link](https://github,com)
+  Software to read CSV files and extract/analyze the data about students and courses. I implemented several features like extracting the average grade for each course and student.  
 
 ## CCA - Basketball
 - Participated in Cdiv NSG 2022
