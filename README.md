@@ -5,9 +5,9 @@ I am a student at Jurong West Secondary School, where I am actively engaged in t
 
 ## Achievements -> Link to Certificate
 ### Python Hackaton
-  - [Python Hackaton](https://google.com)
+    [Python Hackaton](https://google.com)
   
-  - The main topics in the Hackaton are solving problems related to conditional statements and loops, lists, functions, list comprehension, dictionaries, search algorithms, sorting algorithms 
+    The main topics in the Hackaton are solving problems related to conditional statements and loops, lists, functions, list comprehension, dictionaries, search algorithms, sorting algorithms 
   - 
 ### Completed course Python 1
   
