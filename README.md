@@ -9,12 +9,19 @@ I am a student at Jurong West Secondary School, where I am actively engaged in t
   - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
     
 ### Completed course Python 1
+  [Python 1 Certificate]()
   
 ### Complated course Python 2
-
+  [Python 2 Certificate]()
 ### Complated course Python 3
+  [Python 3 Certificate]()
+### Participated in Cybersecurity CTF(Capture-The-Flag) Competition - Sibbersec CTF
+  [CTF competition Certificate]()
+### 
 
-- 
+## Projects 
+  ### School Management Project
+    software to read CSV files and extract/analyze the data about students and courses. I implemented several features like extracting the average grade for each course and student.  
 
 ## CCA - Basketball
 - Participated in Cdiv NSG 2022
@@ -31,5 +38,3 @@ I am a student at Jurong West Secondary School, where I am actively engaged in t
 - Class-chair person 2024
 - publicity head of basketball 2023 - 2024
 - Participated in Open house 2022 as an usher
-
-### Projects
