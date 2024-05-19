@@ -3,10 +3,11 @@
 ## About Me
 I am a student at Jurong West Secondary School, where I am actively engaged in the field of programming and problem-solving. My primary programming language of choice is Python, through which I cultivate my skills and knowledge in developing practical projects aimed at enhancing the quality of life. By leveraging Python's versatility and efficiency, I strive to create innovative solutions that contribute positively to the community.
 
-## Achievements
+## Achievements - (Computing related)
 ### Python Hackaton
   [Python Hackaton Certificate](https://google.com)
-  - The main topics in the Hackaton are solving problems related to conditional statements and loops, lists, functions, list comprehension, dictionaries, search algorithms, sorting algorithms 
+  - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
+    
 ### Completed course Python 1
   
 ### Complated course Python 2
