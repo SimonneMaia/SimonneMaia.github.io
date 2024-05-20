@@ -18,13 +18,13 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - Helped out in class VIA 2021, 2022, 2023
   - represented the school in Ultimate Frisbee Under-17 competition 2024
 #### Leadership & Countributions
-  - *Class-chairperson* of 4Passion 2024
-  - Publicity head of basketball 2023 - 2024
-  - Facil in secondary1 orientation program 2024
+  - **Class-chairperson** of 4Passion 2024
+  - **Publicity head** of basketball 2023 - 2024
+  - **Facil** in secondary1 orientation program 2024
   - Gave a presentation/talk to the school on environmental sustainability in 2024
-  - Participated in my school's student outreach 2022 & 2023
-  - Led the class VIA in Sec4 2024
-  - Usher for primary school students and parents in my school's Open house 2022
+  - Participated in my school's **student outreach** 2022 & 2023
+  - **Led the class VIA** in Sec4 2024
+  - **Usher** for primary school students and parents in my school's Open house 2022
     
 ## Achievements - (Computing related)
 ### Python Hackaton
