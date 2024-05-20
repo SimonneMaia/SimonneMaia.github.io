@@ -39,8 +39,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 ### Complated course Python 3
   [Python 3 Certificate]()
   
-### Participated in Sibbersec CTF 5.0
-  [Sibbersec CTF 5.0](https://sieberr.live/) 
+### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
   [CTF competition Certificate]()
   - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
   
