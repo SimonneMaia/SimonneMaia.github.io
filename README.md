@@ -5,7 +5,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 
 ## Acheievements/Contributions
-  #### Sports Related
+#### Sports Related
   - medicine toss ball race 2022 2nd place
   - long distance race 2022 2nd place
   - 400m race 2023 1st place
@@ -15,7 +15,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - cross country 2022 14th place
   - actively participated in all yearly interclass games
   - represented the school in Ultimate Frisbee Under-17 competition 2024
-  #### Other Countributions
+#### Other Countributions
   - Participated in Open house 2022 as an usher
   - Gave a presentation to the school on environmental sustainability in 2024
   - Facil for orientation program 2024
