@@ -13,13 +13,13 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - 4x100m race 2023 **2nd place**
   - 4x100m race 2024 **2nd place**
   - cross country 2022 **14th place**
-  - **achieved Bronze Award** in HSI(Historical Scene Investigation) 2022
+  - Achieved **Bronze Award** in **HSI(Historical Scene Investigation)** 2022
 #### Contributions
-  - actively participated in all yearly interclass games
+  - actively **participated** in all yearly interclass games
   - represented the school in **Ultimate Frisbee Under-17 competition 2024**
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
-  - Helped out in class VIA 2021, 2022, 2023
+  - **Helped out** in class VIA 2021, 2022, 2023
   - **Led the class VIA** in Sec4 2024
   - **Usher** for primary school students and parents in my school's **Open house** 2022
 #### Leadership
@@ -45,10 +45,9 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   [CTF competition Certificate]()
   - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
   
-### Participated in EduBlitz Program 
+### Participated in EduBlitz Program 2022
   [EduBlitz Participation Certificate]()
-  - a robotics program
-
+  - participated in a robotics program that taught us to utilize microbits into real life problems.
 
 ## Projects 
 ### School Management Project
