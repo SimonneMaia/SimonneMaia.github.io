@@ -12,25 +12,27 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   
 ### Complated course Python 2
   [Python 2 Certificate]()
+  
 ### Complated course Python 3
   [Python 3 Certificate]()
+  
 ### Participated in Cybersecurity CTF(Capture-The-Flag) Competition - Sibbersec CTF
   [CTF competition Certificate]()
-### 
+### Participated in EduBlitz Program 
+  [EduBlitz Participation Certificate]()
 
+## Acheievements - Others
+  #### Sports Day
+  
 ## Projects 
 ### School Management Project
   [Github Link](https://github,com)
   - I have developed software that can read CSV files containing information about students and courses, allowing for data extraction and analysis. The software offers a range of features including calculating the average grade for each course and student, determining the number of students, compiling a list of students who failed a specific course, converting numeric grades to letter grades, counting the occurrences and percentage of each letter grade for a given course, displaying comprehensive data for students based on their first and last names, and assessing the overall grade for students based on their first and last names. These functionalities streamline the process of extracting valuable insights from the data set and provide a robust platform for in-depth analysis and reporting.
 
 ## CCA - Basketball
-- Participated in Cdiv NSG 2022
+- Participated in Cdiv NSG 2022, acheived Play Fair Award
 - Participated in BDiv NSG 2023
 - Participated in Bdiv NSG 2024
-
-## Interests 
-
-
 
 ## ?
 - Facil for ocreintation program 2024
