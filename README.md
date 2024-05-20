@@ -6,15 +6,24 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ## Acheievements/Contributions
   #### Sports Related
-  - 2nd place medicine toss ball race 2022
-  - 2nd place long distance race 2022
-  - 1st place 400m race 2023
-  - 3rd place 200m race
-  - 2nd place 4x100m race 2023
-  - 2nd place 4x100m race 2024
-  - cross country 14th place 2022
-  - cross country top50 places 2023 & 2024
-
+  - medicine toss ball race 2022 2nd place
+  - long distance race 2022 2nd place
+  - 400m race 2023 1st place
+  - 200m race 2024 3rd place
+  - 4x100m race 2023 2nd place
+  - 4x100m race 2024 2nd place
+  - cross country 2022 14th place
+  - actively participated in all yearly interclass games
+  - represented the school in Ultimate Frisbee Under-17 competition 2024
+  #### Other Countributions
+  - Participated in Open house 2022 as an usher
+  - Gave a presentation to the school on environmental sustainability in 2024
+  - Facil for orientation program 2024
+  - participated in student outreach 2022 & 2023
+  - Class-chairperson of 4Passion 2024
+  - Publicity head of basketball 2023 - 2024
+  - Lead the class VIA in Sec4 2024
+  - Helped out in class VIA 2021, 2022, 2023
     
 ## Achievements - (Computing related)
 ### Python Hackaton
@@ -30,10 +39,14 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 ### Complated course Python 3
   [Python 3 Certificate]()
   
-### Participated in Cybersecurity CTF(Capture-The-Flag) Competition - Sibbersec CTF
+### Participated in Sibbersec CTF 5.0
+  [Sibbersec CTF 5.0](https://sieberr.live/) 
   [CTF competition Certificate]()
+  - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
+  
 ### Participated in EduBlitz Program 
   [EduBlitz Participation Certificate]()
+  - a robotics program
 
 ## Projects 
 ### School Management Project
@@ -45,9 +58,9 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 - Participated in BDiv NSG 2023
 - Participated in Bdiv NSG 2024
 
-## ?
+## Leadership 
 - Facil for ocreintation program 2024
 - participated in student outreach 2022 & 2023
 - Class-chair person 2024
-- publicity head of basketball 2023 - 2024
-- Participated in Open house 2022 as an usher
+- Publicity head of basketball 2023 - 2024
+- Lead the class VIA in Sec4 2024
