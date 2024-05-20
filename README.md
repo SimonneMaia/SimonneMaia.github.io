@@ -2,6 +2,20 @@
 
 ## About Me
 As a dedicated student at Jurong West Secondary School, I am deeply passionate about programming and problem-solving, aspiring to establish a career in the tech industry. Seeking to enhance my skills, broaden my knowledge, and gather invaluable coding experiences, I am eager to embark on this journey to shape a promising future. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience sparked a profound interest in coding, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 3 years, I have been dedicated to weekly Python classes and ongoing project works. These endeavors have provided me with a solid foundation in Python coding and have equipped me with the capability to tackle complex challenges. Furthermore, I have embraced the opportunity to study Computing as an O-level subject at my school, where Python programming is a key focus. Through this academic pursuit, I am refining my skills and expertise in conceptualizing and executing practical projects that aim to enhance the quality of life. By leveraging Python's versatility and efficiency, I am on a quest to develop innovative solutions that make a positive impact on society. My dedication, perseverance, and continuous learning drive me to push boundaries and explore new horizons in the realm of programming, with the ultimate goal of contributing meaningfully to the community through technology.
+
+
+## Acheievements/Contributions
+  #### Sports Related
+    - 2nd place medicine toss ball race 2022
+    - 2nd place long distance race 2022
+      1st place 400m race 2023
+      3rd place 200m race
+      2nd place 4x100m race 2023
+      2nd place 4x100m race 2024
+      cross country 14th place 2022
+      cross country top50 places 2023 & 2024
+
+    
 ## Achievements - (Computing related)
 ### Python Hackaton
   [Python Hackaton Certificate](https://google.com)
@@ -21,9 +35,6 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 ### Participated in EduBlitz Program 
   [EduBlitz Participation Certificate]()
 
-## Acheievements - Others
-  #### Sports Day
-  
 ## Projects 
 ### School Management Project
   [Github Link](https://github,com)
