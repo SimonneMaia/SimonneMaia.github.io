@@ -14,7 +14,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - 4x100m race 2024 **2nd place**
   - cross country 2022 **14th place**
   - Achieved **Bronze Award** in HSI(Historical Scene Investigation)s 2022
-  - 
+    
 #### Contributions
   - actively **participated** in all yearly interclass games
   - represented the school in **Ultimate Frisbee Under-17 competition 2024**
