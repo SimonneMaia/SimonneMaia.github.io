@@ -26,7 +26,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
     
 #### Leadership
-  - **Class-chairperson** of 4Passion 2024
+  - **Vice-chairperson** of 4Passion 2024
   - **Publicity head** of basketball 2023 - 2024
   - **Facil** in secondary1 **Orientation Program** 2024
     
