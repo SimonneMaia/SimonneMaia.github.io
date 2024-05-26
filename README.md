@@ -23,11 +23,12 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Helped out** in class VIA 2021, 2022, 2023
   - **Led the class 4Passion VIA** in 2024
   - **Usher** for primary school students and parents in my school's **Open house** 2022
+  - helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
     
 #### Leadership
   - **Class-chairperson** of 4Passion 2024
   - **Publicity head** of basketball 2023 - 2024
-  - **Facil** in secondary1 **orientation program** 2024
+  - **Facil** in secondary1 **Orientation Program** 2024
     
 ## Achievements - (Computing related)
 ### Python Hackaton
