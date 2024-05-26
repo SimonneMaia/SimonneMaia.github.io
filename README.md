@@ -37,16 +37,16 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
   #### Completed course Python 1
-    [Python 1 Certificate]()
-    - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
+  [Python 1 Certificate]()
+  - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
     
   #### Completed course Python 2
-    [Python 2 Certificate]()
-    - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
+  [Python 2 Certificate]()
+  - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
     
   #### Completed course Python 3
-    [Python 3 Certificate]()
-    - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
+  [Python 3 Certificate]()
+  - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
   [CTF competition Certificate]()
