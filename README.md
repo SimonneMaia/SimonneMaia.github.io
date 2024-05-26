@@ -21,7 +21,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
   - **Helped out** in class VIA 2021, 2022, 2023
-  - **Led the class VIA** in Sec4 2024
+  - **Led the class 4Passion VIA** in 2024
   - **Usher** for primary school students and parents in my school's **Open house** 2022
     
 #### Leadership
