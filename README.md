@@ -17,19 +17,23 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
     
 #### Contributions
   - actively **participated** in all yearly interclass games
-  - represented the school in **Ultimate Frisbee Under-17 competition 2024**
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
-  - **Helped out** in class VIA 2021, 2022, 2023
-  - **Led the class 4Passion VIA** in 2024
   - **Usher** for primary school students and parents in my school's **Open house** 2022
   - helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
-    
+  - **Helped out** in class VIA 2021, 2022, 2023
+      
+##### External Competitions
+  - represented the school in **Ultimate Frisbee Under-17 competition 2024**
+  - represented the school in **HSI 2022**
+  - represented the school in Represented my school(Jwss Team2) in Sibbersec Cybersecurity CTF(Capture-The-Flag) 5.0 Competition
+  
 #### Leadership
   - **Vice-chairperson** of 4Passion 2024
   - **Publicity head** of basketball 2023 - 2024
   - **Facil** in secondary1 **Orientation Program** 2024
-    
+  - **Led the class 4Passion VIA** in 2024
+        
 ## Achievements - (Computing related)
 ### Python Hackaton
   [Python Hackaton Certificate](https://google.com)
@@ -44,7 +48,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   [Python 2 Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing) 
   - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
     
-#### Completed course Python Advaanced
+#### Completed course Python Advanced
   [Python 3 Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
