@@ -41,11 +41,11 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
     
 #### Completed course Python Intermediate
-  [Python 2 Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing)
+  [Python 2 Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing) 
   - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
     
 #### Completed course Python Advaanced
-  [Python 3 Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing)  
+  [Python 3 Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
