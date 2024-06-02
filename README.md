@@ -4,8 +4,7 @@
 As a dedicated student at Jurong West Secondary School, I am deeply passionate about programming and problem-solving, aspiring to establish a career in the tech industry. Seeking to enhance my skills, broaden my knowledge, and gather invaluable coding experiences, I am eager to embark on this journey to shape a promising future. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience sparked a profound interest in coding, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 3 years, I have been dedicated to weekly Python classes and ongoing project works. These endeavors have provided me with a solid foundation in Python coding and have equipped me with the capability to tackle complex challenges. Furthermore, I have embraced the opportunity to study Computing as an O-level subject at my school, where Python programming is a key focus. Through this academic pursuit, I am refining my skills and expertise in conceptualizing and executing practical projects that aim to enhance the quality of life. By leveraging Python's versatility and efficiency, I am on a quest to develop innovative solutions that make a positive impact on society. My dedication, perseverance, and continuous learning drive me to push boundaries and explore new horizons in the realm of programming, with the ultimate goal of contributing meaningfully to the community through technology.
 
 
-## Achievements/Contributions/Leadership
-#### Achievements
+## Achievements
   - medicine toss ball race 2022 **2nd place**
   - long distance race 2022 **2nd place**
   - 400m race 2023 **1st place**
@@ -15,7 +14,8 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - cross country 2022 **14th place**
   - Achieved **Bronze Award** in HSI(Historical Scene Investigations) 2022
     
-#### Contributions
+## Contributions
+### School Participations
   - actively **participated** in all yearly interclass games
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
@@ -23,12 +23,12 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Helped out** in class VIA 2021, 2022, 2023
       
-##### External Competitions
+### External Competitions
   - represented the school in **Ultimate Frisbee Under-17 competition 2024**
   - represented the school in **HSI 2022**
   - represented the school in Represented my school(Jwss Team2) in Sibbersec Cybersecurity CTF(Capture-The-Flag) 5.0 Competition
   
-#### Leadership
+## Leadership
   - **Vice-chairperson** of 4Passion 2024
   - **Publicity head** of basketball 2023 - 2024
   - **Facil** in secondary1 **Orientation Program** 2024
@@ -41,15 +41,15 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
 #### Completed course Python Basic
-  [Python 1 Certificate](https://drive.google.com/file/d/1gWsX14oeGTpsDikJf1COCE2zCOAJauXv/view?usp=sharing)
+  [Python Basic Certificate](https://drive.google.com/file/d/1gWsX14oeGTpsDikJf1COCE2zCOAJauXv/view?usp=sharing)
   - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
     
 #### Completed course Python Intermediate
-  [Python 2 Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing) 
+  [Python Intermediate Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing) 
   - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
     
 #### Completed course Python Advanced
-  [Python 3 Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
+  [Python Advanced Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
