@@ -56,7 +56,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   
 ### Participated in EduBlitz Program 2022
   [EduBlitz Participation Certificate]()
-  - participated in a robotics program that taught us to utilize microbits into real life problems.
+  - Participated in a robotics program that taught us to utilize microbits into real life problems.
 
 ## Projects 
 ### School Management Project
