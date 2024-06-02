@@ -37,7 +37,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
 #### Completed course Python 1
-  [Python 1 Certificate]()
+  [Python 1 Certificate](https://drive.google.com/file/d/1gWsX14oeGTpsDikJf1COCE2zCOAJauXv/view?usp=sharing)
   - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
     
 #### Completed course Python 2
