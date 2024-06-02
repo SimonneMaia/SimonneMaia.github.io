@@ -1,7 +1,8 @@
 # Simonne Maia's Portfolio!
 
 ## About Me
-As a dedicated student at Jurong West Secondary School, I am deeply passionate about programming and problem-solving, aspiring to establish a career in the tech industry. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics enrichment program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience sparked a profound interest in coding, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 2 years, I have been dedicated to weekly Python classes and ongoing project works. These endeavors have provided me with a solid foundation in Python coding and have equipped me with the capability to tackle complex challenges. I am dedicated to leveraging Python to create innovative solutions that positively impact society. My drive for learning and perseverance motivates me to push boundaries in programming, aiming to contribute meaningfully to the community through technology.
+As a dedicated student at Jurong West Secondary School, I am deeply passionate about programming and problem-solving, aspiring to establish a career in the tech industry. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics enrichment program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience sparked a profound interest in coding, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 2 years, I have been dedicated to weekly Python classes and ongoing project works. These endeavors have provided me with a solid foundation in Python coding and have equipped me with the capability to tackle complex challenges. I am dedicated to leveraging Python to create innovative solutions that positively impact society. My drive for learning and developing my hard and soft skills motivates me to push boundaries in programming, aiming to contribute meaningfully to the community through technology.
+
 ## Achievements
   - Medicine toss ball race 2022 **2nd place**
   - Long distance race 2022 **2nd place**
@@ -10,7 +11,8 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - 4x100m race 2023 **2nd place**
   - 4x100m race 2024 **2nd place**
   - Cross Country 2022 **14th place**
-  - Achieved **Bronze Award** in HSI(Historical Scene Investigations) 2022
+  - Cross Country 2023 & 2024 **Top 50 places**
+  - Achieved [**Bronze Award**]() in HSI(Historical Scene Investigations) 2022
     
 ## Contributions
 ### School Participations
