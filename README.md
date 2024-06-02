@@ -36,16 +36,16 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
-#### Completed course Python 1
+#### Completed course Python Basic
   [Python 1 Certificate](https://drive.google.com/file/d/1gWsX14oeGTpsDikJf1COCE2zCOAJauXv/view?usp=sharing)
   - This course focused on Basics of programming, Variables, Conditional statements, Loops, Basic problem solving skills  
     
-#### Completed course Python 2
-  [Python 2 Certificate]()
+#### Completed course Python Intermediate
+  [Python 2 Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing)
   - This course focused on Lists, Functions, Modules, Search Algorithms, Intermediate problem solving skills  
     
-#### Completed course Python 3
-  [Python 3 Certificate]()
+#### Completed course Python Advaanced
+  [Python 3 Certificate](https://drive.google.com/file/d/1LkYJbEaQro1YePIobGfn-BOg5rDt-qVK/view?usp=sharing)  
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
