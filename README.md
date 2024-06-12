@@ -12,7 +12,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - 4x100m race 2024 **2nd place**
   - Cross Country 2022 **14th place**
   - Cross Country 2023 & 2024 **Top 50 places**
-  - Achieved [**Bronze Award**]() in HSI(Historical Scene Investigations) 2022
+  - Achieved [**Bronze Award**](https://drive.google.com/file/d/1OcKTJlJznoKAZzUy9EDZfL1MH2OJK7PW/view?usp=sharing) in HSI(Historical Scene Investigations) 2022
     
 ## Contributions
 ### School Participations
@@ -36,7 +36,8 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
         
 ## Achievements - (Computing related)
 ### Python Hackaton
-  [Python Hackaton Certificate](https://drive.google.com/file/d/1-b5eZotzmOEvmzETqeIScOLkDwrRfrPe/view?usp=sharing)  - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
+  [Python Hackaton Certificate](https://drive.google.com/file/d/1-b5eZotzmOEvmzETqeIScOLkDwrRfrPe/view?usp=sharing) 
+  - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
 #### Completed course Python Basic
@@ -52,11 +53,11 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
-  [CTF competition Certificate]()
+  Certificate yet to be recieved.
   - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
   
 ### Participated in EduBlitz Program 2022
-  [EduBlitz Participation Certificate]()
+  [EduBlitz Participation Certificate](https://drive.google.com/file/d/1MyT-sAwUTp6ZnlIbayQSowoRMtWXn41Z/view?usp=sharing)
   - Participated in a robotics program that taught us to utilize microbits into real life problems.
 
 ## Projects 
