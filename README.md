@@ -36,8 +36,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
         
 ## Achievements - (Computing related)
 ### Python Hackaton
-  [Python Hackaton Certificate](https://google.com)
-  - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
+  [Python Hackaton Certificate](https://drive.google.com/file/d/1-b5eZotzmOEvmzETqeIScOLkDwrRfrPe/view?usp=sharing)  - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
 
 ### [Algorithmics](https://algorithmicschool.com/?utm_source=organic&utm_medium=google&utm_referrer=www.google.com) Python Course
 #### Completed course Python Basic
