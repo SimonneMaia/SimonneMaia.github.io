@@ -26,7 +26,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
   - Represented the school in **HSI 2022**
-  - Represented the school in Represented my school(Jwss Team2) in Sibbersec Cybersecurity CTF(Capture-The-Flag) 5.0 Competition
+  - Represented my school(Jwss Team2) in Sibbersec Cybersecurity CTF(Capture-The-Flag) 5.0 Competition
   
 ## Leadership
   - **Vice-chairperson** of 4Passion 2024
