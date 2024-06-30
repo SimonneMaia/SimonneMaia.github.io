@@ -33,9 +33,9 @@ Me & my teammates recieving our medal for the 4x100 race
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Participated** in class VIA 2021, 2022 & 2023
 
-          student outreach!
+         student outreach!
 <img src="./assets/img/5.jpg" width="400"> 
-          CCA open house!
+         CCA open house!
 <img src="./assets/img/3.jpg" width="400"> 
 
 ### External Competitions
@@ -48,6 +48,7 @@ Me & my teammates recieving our medal for the 4x100 race
   - **Publicity head** of Jurong West basketball girls 2023 - 2024
   - **Facilitator** in secondary1 **Orientation Program** 2024
   - **Led the class 4Passion VIA** in 2024
+    
 Orientation Program with my secondary1 class
 <img src="./assets/img/1.jpg" width="400">
 
