@@ -40,7 +40,6 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Publicity head** of Jurong West basketball girls 2023 - 2024
   - **Facilitator** in secondary1 **Orientation Program** 2024
   - **Led the class 4Passion VIA** in 2024
-<!-- ![](./assets/img/1.jpg | width=100) -->
 
 <img src="./assets/img/1.jpg" width="400">
         
@@ -82,7 +81,6 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 - Participated in Basketball CCA Open House 2023 & 2024
 - Participated in ChongPang Basketball invitational competition
 
-- <!-- ![](./assets/img/2.jpg | width=100) -->
 
 <img src="./assets/img/2.jpg" width="400">
 
