@@ -48,10 +48,9 @@ Me & my teammates recieving our medal for the 4x100 race
   - **Publicity head** of Jurong West basketball girls 2023 - 2024
   - **Facilitator** in secondary1 **Orientation Program** 2024
   - **Led the class 4Passion VIA** in 2024
-
-
 Orientation Program with my secondary1 class
-<img src="./assets/img/1.jpg" width="400"> 
+<img src="./assets/img/1.jpg" width="400">
+
         
 ## Achievements - (Computing related)
 ### Python Hackaton
