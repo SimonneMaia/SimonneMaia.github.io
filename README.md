@@ -50,7 +50,6 @@ Me & my teammates recieving our medal for the 4x100 race
   - **Led the class 4Passion VIA** in 2024
 
 Orientation Program with my secondary1 class
-
 <img src="./assets/img/1.jpg" width="400"> 
         
 ## Achievements - (Computing related)
