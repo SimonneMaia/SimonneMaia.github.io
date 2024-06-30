@@ -17,10 +17,6 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - Cross Country 2023 & 2024 **Top 50 places**
   - Achieved [**Bronze Award**](https://drive.google.com/file/d/1OcKTJlJznoKAZzUy9EDZfL1MH2OJK7PW/view?usp=sharing) in HSI(Historical Scene Investigations) 2022
 
-<!-- ![](./assets/img/5.jpg | width=100) -->
-
-<img src="./assets/img/5.jpg" width="400">
-
 ## Contributions
 ### School Participations
   - Actively **participated** in all yearly interclass games
@@ -29,7 +25,11 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Usher** for primary school students and parents in my school's **Open house** 2022
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Helped out** in class VIA 2021, 2022, 2023
-      
+
+<!-- ![](./assets/img/5.jpg | width=100) -->
+
+<img src="./assets/img/5.jpg" width="400">
+
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
   - Represented the school in **HSI 2022**
