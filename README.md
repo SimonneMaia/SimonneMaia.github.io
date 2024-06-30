@@ -17,7 +17,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - Cross Country 2023 & 2024 **Top 50 places**
   - Achieved [**Bronze Award**](https://drive.google.com/file/d/1OcKTJlJznoKAZzUy9EDZfL1MH2OJK7PW/view?usp=sharing) in HSI(Historical Scene Investigations) 2022
     
-<img src="./assets/img/4.jpg" width="400">
+<img src="./assets/img/7.png" width="400">
     
 ## Contributions
 ### School Participations
