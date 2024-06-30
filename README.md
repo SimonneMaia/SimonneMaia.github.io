@@ -5,6 +5,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 <!-- ![](./assets/img/4.jpg | width=100) -->
 
 <img src="./assets/img/4.jpg" width="400"> 
+        3rd Day, ApLM@SP
 
 ## Achievements
   - Medicine toss ball race 2022 **2nd place**
@@ -18,6 +19,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - Achieved [**Bronze Award**](https://drive.google.com/file/d/1OcKTJlJznoKAZzUy9EDZfL1MH2OJK7PW/view?usp=sharing) in HSI(Historical Scene Investigations) 2022
     
 <img src="./assets/img/7.png" width="400">
+Me & my teammates recieving our medal for the 4x100 race
     
 ## Contributions
 ### School Participations
@@ -30,6 +32,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Participated** in class VIA 2021, 2022 & 2023
 
 <img src="./assets/img/5.jpg" width="400"> <img src="./assets/img/3.jpg" width="400">
+    student outreach!                              cca open house!
 
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
