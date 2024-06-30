@@ -5,7 +5,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 <!-- ![](./assets/img/4.jpg | width=100) -->
 
           3rd Day, ApLM@SP
-<img src="./assets/img/4.jpg" width="400">  
+          <img src="./assets/img/4.jpg" width="400">  
 
 ## Achievements
   - Medicine toss ball race 2022 **2nd place**
