@@ -25,10 +25,11 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
   - **Usher** for primary school students and parents in my school's **Open house** 2022
+  - Participated in Basketball CCA Open House 2023 & 2024
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
-  - **Helped out** in class VIA 2021, 2022, 2023
+  - **Participated** in class VIA 2021, 2022 & 2023
 
-<img src="./assets/img/5.jpg" width="400">
+<img src="./assets/img/5.jpg" width="400"> <img src="./assets/img/3.jpg" width="400">
 
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
@@ -78,11 +79,10 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 - Participated in Cdiv NSG 2022, acheived Play Fair Award
 - Participated in Bdiv NSG 2023
 - Participated in Bdiv NSG 2024
-- Participated in Basketball CCA Open House 2023 & 2024
 - Participated in ChongPang Basketball invitational competition
 
 
 <img src="./assets/img/2.jpg" width="400">
 
 
-<img src="./assets/img/3.jpg" width="400">
+<img src="./assets/img/6.jpg" width="400">
