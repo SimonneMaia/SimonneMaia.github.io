@@ -8,7 +8,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ## Achievements
   - Medicine toss ball race 2022 **2nd place**
-  - Long distance race 2022 **2nd place**                                   <img src="./assets/img/7.png" width="400">  
+  - Long distance race 2022 **2nd place**                                                     <img src="./assets/img/7.png" width="400">  
   - 400m race 2023 **1st place**
   - 200m race 2024 **3rd place**
   - 4x100m race 2023 **2nd place**
