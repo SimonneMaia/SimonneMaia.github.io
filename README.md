@@ -1,10 +1,10 @@
 # Simonne Maia's Portfolio!
 
 ## About Me
-As a dedicated student at Jurong West Secondary School, I am deeply passionate about programming and problem-solving, aspiring to establish a career in the tech industry. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics enrichment program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience sparked a profound interest in coding, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 2 years, I have been dedicated to weekly Python classes and ongoing project works. I also had the opportunity to participate in a robotics ApLM@SP. These endeavors have provided me with a solid foundation in Python coding and have equipped me with the capability to tackle complex challenges. I am dedicated to leveraging Python to create innovative solutions that positively impact society. My drive for learning and developing my hard and soft skills motivates me to push boundaries in programming, aiming to contribute meaningfully to the community through technology.
+As a dedicated student at Jurong West Secondary School, I am **deeply passionate** about programming and problem-solving, aspiring to **establish a career** in the tech industry. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics enrichment program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience **sparked a profound interest in coding**, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 2 years, I have been dedicated to weekly Python classes and ongoing project works. I also had the opportunity to participate in a robotics **ApLM@SP**. These endeavors have provided me with a **solid foundation** in Python coding and have equipped me with the **capability** to tackle **complex challenges**. I am dedicated to leveraging Python to create innovative solutions that positively impact society. My drive for learning and developing my hard and soft skills motivates me to push boundaries in programming, aiming to contribute meaningfully to the community through technology.
 <!-- ![](./assets/img/4.jpg | width=100) -->
 
-- 3rd Day, ApLM@SP
+- 3rd Day, **ApLM@SingaporePoly**
 <img src="./assets/img/4.jpg" width="400">  
 
 ## Achievements
@@ -27,13 +27,13 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Gave a presentation/talk** to my school on environmental sustainability in 2024
   - Participated in my school's **student outreach** 2022 & 2023
   - **Usher** for primary school students and parents in my school's **Open house** 2022
-  - Participated in Basketball CCA Open House 2023 & 2024
+  - Participated in Basketball **CCA Open House** 2023 & 2024
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Participated** in class VIA 2021, 2022 & 2023
 
-- student outreach!
+- **student outreach!**
 <img src="./assets/img/5.jpg" width="400"> 
-- CCA open house!
+- **CCA open house!**
 <img src="./assets/img/3.jpg" width="400"> 
 
 ### External Competitions
@@ -47,7 +47,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - **Facilitator** in secondary1 **Orientation Program** 2024
   - **Led the class 4Passion VIA** in 2024
     
-- Orientation Program with my secondary1 class
+- **Orientation Program** with my secondary1 class
 <img src="./assets/img/1.jpg" width="400">
 
         
@@ -83,11 +83,11 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - I have developed software that can **read CSV files** containing information about students and courses, allowing for **data extraction and analysis**. The software offers a **range of features** including calculating the average grade for each course and student, determining the number of students, compiling a list of students who failed a specific course, converting numeric grades to letter grades, counting the occurrences and percentage of each letter grade for a given course, displaying comprehensive data for students based on their first and last names, and assessing the overall grade for students based on their first and last names. These functionalities streamline the process of extracting valuable insights from the data set and provide a robust platform for in-depth analysis and reporting.
 
 ## CCA - Basketball
-- Participated in Cdiv NSG 2022, acheived Play Fair Award
+- Participated in Cdiv NSG 2022, acheived **Play Fair Award**
 - Participated in Bdiv NSG 2023
 - Participated in Bdiv NSG 2024
 <img src="./assets/img/6.jpg" width="400">
 
-- Participated in ChongPang Basketball invitational competition
+- Participated in **ChongPang** Basketball invitational competition
 <img src="./assets/img/2.jpg" width="400">
    
