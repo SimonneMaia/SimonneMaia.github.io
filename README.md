@@ -31,8 +31,8 @@ Me & my teammates recieving our medal for the 4x100 race
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Participated** in class VIA 2021, 2022 & 2023
 
-<img src="./assets/img/5.jpg" width="400"> <img src="./assets/img/3.jpg" width="400">
-  student outreach!                              cca open house!
+<img src="./assets/img/5.jpg" width="400"> student outreach!  
+<img src="./assets/img/3.jpg" width="400"> cca open house!
 
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
