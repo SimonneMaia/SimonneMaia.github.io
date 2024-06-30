@@ -26,8 +26,6 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Helped out** in class VIA 2021, 2022, 2023
 
-<!-- ![](./assets/img/5.jpg | width=100) -->
-
 <img src="./assets/img/5.jpg" width="400">
 
 ### External Competitions
@@ -84,7 +82,5 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 <img src="./assets/img/2.jpg" width="400">
 
-
-<!-- ![](./assets/img/3.jpg | width=100) -->
 
 <img src="./assets/img/3.jpg" width="400">
