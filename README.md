@@ -5,6 +5,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 <!-- ![](./assets/img/4.jpg | width=100) -->
 
 3rd Day, ApLM@SP
+
 <img src="./assets/img/4.jpg" width="400">  
 
 ## Achievements
@@ -32,7 +33,7 @@ Me & my teammates recieving our medal for the 4x100 race
   - Helped out in Orientation Program 2024 Planning during Nov/Dec Holidays
   - **Participated** in class VIA 2021, 2022 & 2023
 
-student outreach!
+          student outreach!
 <img src="./assets/img/5.jpg" width="400"> 
           CCA open house!
 <img src="./assets/img/3.jpg" width="400"> 
