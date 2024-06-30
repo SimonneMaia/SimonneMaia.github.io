@@ -32,7 +32,7 @@ Me & my teammates recieving our medal for the 4x100 race
   - **Participated** in class VIA 2021, 2022 & 2023
 
 <img src="./assets/img/5.jpg" width="400"> <img src="./assets/img/3.jpg" width="400">
-    student outreach!                              cca open house!
+  student outreach!                              cca open house!
 
 ### External Competitions
   - Represented the school in **Ultimate Frisbee Under-17 competition 2024**
@@ -46,6 +46,7 @@ Me & my teammates recieving our medal for the 4x100 race
   - **Led the class 4Passion VIA** in 2024
 
 <img src="./assets/img/1.jpg" width="400">
+With my secondary 1 class and my other fellow facilitators
         
 ## Achievements - (Computing related)
 ### Python Hackaton
@@ -82,7 +83,7 @@ Me & my teammates recieving our medal for the 4x100 race
 - Participated in Cdiv NSG 2022, acheived Play Fair Award
 - Participated in Bdiv NSG 2023
 - Participated in Bdiv NSG 2024
+<img src="./assets/img/6.jpg" width="400">
 - Participated in ChongPang Basketball invitational competition
-
-
-<img src="./assets/img/2.jpg" width="400"> <img src="./assets/img/6.jpg" width="400">
+<img src="./assets/img/2.jpg" width="400">
+   
