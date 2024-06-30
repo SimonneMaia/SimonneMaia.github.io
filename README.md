@@ -63,7 +63,7 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
 ### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
-  Certificate yet to be recieved.
+  []()
   - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
   
 ### Participated in EduBlitz Program 2022
@@ -82,7 +82,4 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 - Participated in ChongPang Basketball invitational competition
 
 
-<img src="./assets/img/2.jpg" width="400">
-
-
-<img src="./assets/img/6.jpg" width="400">
+<img src="./assets/img/2.jpg" width="400"> <img src="./assets/img/6.jpg" width="400">
