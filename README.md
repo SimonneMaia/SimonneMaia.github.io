@@ -70,5 +70,16 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 
 ## CCA - Basketball
 - Participated in Cdiv NSG 2022, acheived Play Fair Award
-- Participated in BDiv NSG 2023
+- Participated in Bdiv NSG 2023
 - Participated in Bdiv NSG 2024
+- Participated in Basketball CCA Open House 2023 & 2024
+- Participated in ChongPang Basketball invitational competition
+
+- <!-- ![](./assets/img/2.jpg | width=100) -->
+
+<img src="./assets/img/2.jpg" width="400">
+
+
+<!-- ![](./assets/img/3.jpg | width=100) -->
+
+<img src="./assets/img/3.jpg" width="400">
