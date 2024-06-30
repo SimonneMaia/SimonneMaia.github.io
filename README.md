@@ -75,9 +75,9 @@ As a dedicated student at Jurong West Secondary School, I am deeply passionate a
 - Participated in Basketball CCA Open House 2023 & 2024
 - Participated in ChongPang Basketball invitational competition
 
-- <!-- ![](./assets/img/2.jpg | width=100) -->
+- <!-- ![](./assets/img/4.jpg | width=100) -->
 
-<img src="./assets/img/2.jpg" width="400">
+<img src="./assets/img/4.jpg" width="400">
 
 
 <!-- ![](./assets/img/3.jpg | width=100) -->
