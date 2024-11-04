@@ -24,16 +24,18 @@ I am **deeply passionate** about programming and problem-solving, aspiring to **
   [Python Advanced Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
   
-### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
-  [Sibbersec CTF Participation Certificate](https://drive.google.com/file/d/1uX7qo4AKpHAwtweZFqnpaUzgiLr09exg/view?usp=sharing)
-  - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition 
-  
 ### Participated in EduBlitz Program 2022
   [EduBlitz Participation Certificate](https://drive.google.com/file/d/1MyT-sAwUTp6ZnlIbayQSowoRMtWXn41Z/view?usp=sharing)
   - Participated in a robotics program that taught us to utilize microbits into real life problems.
 
+### CTFs
+#### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
+  [Sibbersec CTF Participation Certificate](https://drive.google.com/file/d/1uX7qo4AKpHAwtweZFqnpaUzgiLr09exg/view?usp=sharing)
+  - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition
+
+
 ## Projects 
-### School Management Project
+  ### School Management Project
   [Github Link](https://github.com/SimonneMaia/School-Management-System.git) for project
   - I have developed software that can **read CSV files** containing information about students and courses, allowing for **data extraction and analysis**. The software offers a **range of features** including calculating the average grade for each course and student, determining the number of students, compiling a list of students who failed a specific course, converting numeric grades to letter grades, counting the occurrences and percentage of each letter grade for a given course, displaying comprehensive data for students based on their first and last names, and assessing the overall grade for students based on their first and last names. These functionalities streamline the process of extracting valuable insights from the data set and provide a robust platform for in-depth analysis and reporting.
 
