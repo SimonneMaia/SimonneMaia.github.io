@@ -7,7 +7,7 @@ As a dedicated student at Jurong West Secondary School, I am **deeply passionate
 - 3rd Day, **ApLM@SP**
 <img src="./assets/img/4.jpg" width="400">  
 
-## Achievements
+## Sports Achievements
   - Medicine toss ball race 2022 **2nd place**
   - Long distance race 2022 **2nd place**
   - 400m race 2023 **1st place**
@@ -51,7 +51,7 @@ As a dedicated student at Jurong West Secondary School, I am **deeply passionate
 <img src="./assets/img/1.jpg" width="400">
 
         
-## Achievements - (Computing related)
+## Computing Achievements
 ### Python Hackaton
   [Python Hackaton Certificate](https://drive.google.com/file/d/1-b5eZotzmOEvmzETqeIScOLkDwrRfrPe/view?usp=sharing) 
   - The Hackathon focuses on addressing challenges involving crucial programming concepts such as conditional statements, loops, lists, functions, list comprehension, dictionaries, as well as search and sorting algorithms. Participants are tasked with leveraging these fundamental topics to devise innovative solutions and showcase their problem-solving skills effectively.
