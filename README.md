@@ -4,7 +4,7 @@
 As a dedicated student at Jurong West Secondary School, I am **deeply passionate** about programming and problem-solving, aspiring to **establish a career** in the tech industry. My programming journey commenced at the age of 10, back in 2018, when I actively participated in a robotics enrichment program facilitated by NLB(National Library Board), where I delved into hands-on projects involving microbits and other small robots. This immersive and engaging experience **sparked a profound interest in coding**, prompting me to continuously seek avenues to enhance my proficiency. Python stands as my programming language of choice, and for the past 2 years, I have been dedicated to weekly Python classes and ongoing project works. I also had the opportunity to participate in a robotics **AppliedLearningModule@SingaporePoly**. These endeavors have provided me with a **solid foundation** in Python coding and have equipped me with the **capability** to tackle **complex challenges**. I am dedicated to leveraging Python to create innovative solutions that positively impact society. My drive for learning and developing my hard and soft skills motivates me to push boundaries in programming, aiming to contribute meaningfully to the community through technology.
 <!-- ![](./assets/img/4.jpg | width=100) -->
 
- 3rd Day, **ApLM@SP**
+- 3rd Day, **ApLM@SP**
 <img src="./assets/img/4.jpg" width="400">  
 
 ## Sports Achievements
@@ -18,7 +18,7 @@ As a dedicated student at Jurong West Secondary School, I am **deeply passionate
   - Cross Country 2023 & 2024 **Top 50 places**
   - Achieved [**Bronze Award**](https://drive.google.com/file/d/1OcKTJlJznoKAZzUy9EDZfL1MH2OJK7PW/view?usp=sharing) in HSI(Historical Scene Investigations) 2022
     
-  Me & my teammates recieving our medal for the 4x100 race
+ - Me & my teammates recieving our medal for the 4x100 race
 <img src="./assets/img/7.png" width="400">
 
 ## Contributions
