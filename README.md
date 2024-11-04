@@ -23,15 +23,16 @@ I am **deeply passionate** about programming and problem-solving, aspiring to **
 #### Completed course Python Advanced
   [Python Advanced Certificate](https://drive.google.com/file/d/1hnp_qwMjHiMuPm7xXUBIUDp0grKaJLLz/view?usp=sharing) 
   - This course was more focused on algorithms like sorting and searching algorithms, input parsing and advanced techniques related to lists, functions   and dictionaries.
-  
-### Participated in EduBlitz Program 2022
-  [EduBlitz Participation Certificate](https://drive.google.com/file/d/1MyT-sAwUTp6ZnlIbayQSowoRMtWXn41Z/view?usp=sharing)
-  - Participated in a robotics program that taught us to utilize microbits into real life problems.
 
 ### CTFs
   #### Participated in [Sibbersec CTF 5.0](https://sieberr.live/) 
   [Sibbersec CTF Participation Certificate](https://drive.google.com/file/d/1uX7qo4AKpHAwtweZFqnpaUzgiLr09exg/view?usp=sharing)
   - Represented my school(Jwss Team2) in a Cybersecurity CTF(Capture-The-Flag) Competition
+
+### Robotics
+  #### Participated in EduBlitz Program 2022
+  [EduBlitz Participation Certificate](https://drive.google.com/file/d/1MyT-sAwUTp6ZnlIbayQSowoRMtWXn41Z/view?usp=sharing)
+  - Participated in a robotics program that taught us to utilize microbits into real life problems.
 
 
 ## Projects 
